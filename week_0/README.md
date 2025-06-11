@@ -9,6 +9,6 @@
 ##  Problem Sets:
 - ####  Indoor Voice
 - ####  Playback Speed
-- #### Playback Fixes
-- ####  Einstein (E = mc²)
+- ####  Making Faces
+- ####  Einstein
 - ####  Tip Calculator
